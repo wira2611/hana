@@ -7,3 +7,6 @@ $ pip2 install requests
 $ pkg install git
 $ git clone https://github.com/wira2611/hana
 $ ls
+$ cd hana
+$ ls
+$ python2 bb2.py
